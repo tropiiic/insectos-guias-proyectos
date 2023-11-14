@@ -1,0 +1,28 @@
+body{background-color: black; 
+font-family: 'Times New Roman', Times, serif;}
+.menu{ list-style: none; padding: 0%; margin: auto; width: 80%; max-width: 900px; background: #211E1B ;}
+.menu li a{ text-decoration: none; color: aliceblue; padding: 20px; display: block; padding-left: 70px;font-family: 'Times New Roman', Times, serif; }
+.menu li{ display: inline-block; text-align: center;}
+.menu li a:hover{ background: gold;  transition: background-color 0.5s ease-out 100ms}
+p{color: aliceblue;}
+h2{color: aliceblue; text-align: left;}
+.intenciones{ text-align: center    ;}
+h3{text-align: center;}
+h4{ color: gold; text-align: center;}
+h6{color: aliceblue;}
+li{color: aliceblue; text-align: left;}
+header{ text-align: left;}
+#seccion1{ padding-left: 50px; padding-right: 50px;}
+#seccion2{ padding-left: 500px; padding-right: 50px;} .hylesia{ text-align: left;}
+#seccion3{ padding-right: 500px; padding-left: 50px;}
+#seccion4{ padding-left: 500px; padding-right: 50px;}
+.mantis{ padding-right: 150px;}     
+.booger{ text-align: center;}
+footer{ background-color: gold;}
+.links{ color: black;}
+.man{ color: black;}
+.natural{ color: black;}
+.otro{ color: black;}
+.patass{ color: black; padding-left: 50px; list-style-type: none;}
+.logoholder{ padding-right: 50px; padding-top: 20px;}
+.toplogo{ padding-bottom: 10px;}
